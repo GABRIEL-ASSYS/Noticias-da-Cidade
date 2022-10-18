@@ -2,7 +2,7 @@
 
 > Status: Não Finalizado ⛔
 
-## É um projeto desenvolvido para uma aula de Desenvolvimento Web/Mobile II no cusro de Engenharia de Software
+## É um projeto desenvolvido para uma aula de Desenvolvimento Web/Mobile II no cusro de Engenharia de Software, sobre um site de notícias de uma cidade
 
 ## Alguns dos campos no Modelo Main são:
 
