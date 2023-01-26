@@ -1,6 +1,6 @@
 #Noticias da Cidade
 
-### É um projeto desenvolvido para uma aula de Desenvolvimento Web/Mobile II no curso de Engenharia de Software, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando as linguagens HTML5 e CSS3, sendo uma página WEB de notícias, tendo diversas notícias sobre vários assuntos.
+  É um projeto desenvolvido para uma aula de Desenvolvimento Web/Mobile II no curso de Engenharia de Software, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando as linguagens HTML5 e CSS3, sendo uma página WEB de notícias, tendo diversas notícias sobre vários assuntos.
 
 ## 🚀 Começando
 
@@ -18,7 +18,7 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 * No prompt da paleta de comandos, insira <b>gitcl</b>, selecione o comando Git: <b>Clone</b> e pressione <b>Enter</b>.
 * Quando for solicitada a URL do Repositório, selecione Clonar do GitHub e pressione <b>Enter</b>.
 * Se for solicitado que você entre no GitHub, conclua o processo de entrada.
-* Insira https://github.com/GABRIEL-ASSYS/Museu-Nacional no campo URL do Repositório.
+* Insira https://github.com/GABRIEL-ASSYS/Noticias-da-Cidade no campo URL do Repositório.
 * Selecione (ou crie) o diretório local no qual você deseja clonar o projeto.
 * Quando você receber a notificação perguntando se você deseja abrir o repositório clonado, selecione <b>Abrir</b>.
 
