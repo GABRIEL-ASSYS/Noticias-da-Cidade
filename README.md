@@ -1,6 +1,6 @@
 # Noticias da Cidade
 
-  É um projeto desenvolvido para uma aula de Desenvolvimento Web/Mobile II no curso de Engenharia de Software, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando as linguagens HTML5 e CSS3, sendo uma página WEB de notícias, tendo diversas notícias sobre vários assuntos.
+  Noticias da Cidade é um projeto desenvolvido para uma aula de Desenvolvimento Web/Mobile II no curso de Engenharia de Software, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando as linguagens HTML5 e CSS3, sendo uma página WEB de notícias, tendo diversas notícias sobre vários assuntos.
 
 ## 🚀 Começando
 
